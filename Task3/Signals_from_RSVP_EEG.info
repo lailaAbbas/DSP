@@ -1,0 +1,19 @@
+Source: record ltrsvp/10-Hz/rsvp_10Hz_02a.edf  Start: [23:27:16.000 06/02/2013]
+val has 10 rows (signals) and 20480 columns (samples/signal)
+Duration:     0:10
+Sampling frequency: 2048 Hz  Sampling interval: 0.00048828125 sec
+Row	Signal	Gain	Base	Units
+1	EEG PO8	31.9995742179	0	uV
+2	EEG PO7	31.9995742179	0	uV
+3	EEG P8	31.9995742179	0	uV
+4	EEG P7	31.9995742179	0	uV
+5	EEG O1	31.9995742179	0	uV
+6	EEG O2	31.9995742179	0	uV
+7	EEG PO3	31.9995742179	0	uV
+8	EEG PO4	31.9995742179	0	uV
+9	Status Channel	0.999984893797	0	uV
+10	EDF Annotations	32767.5	-1	nd
+
+To convert from raw units to the physical units shown
+above, call the 'rdmat.m' function from the wfdb-matlab
+toolbox: https://physionet.org/physiotools/matlab/wfdb-app-matlab/
