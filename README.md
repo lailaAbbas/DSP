@@ -24,6 +24,7 @@
 
 #### Sound Equalizer
 <img src="images/SoundEqualizer.jpeg" width="400">
+
 #### 8 Band Equalizer for voice filteration
 #### using stored signal and apply offline filteration 
 #### or life sound and apply online filteration
